@@ -12,7 +12,7 @@ let package = Package(name: "OkaySdkLib",
                                               url: "https://github.com/Okaythis/PSAiOS/raw/e141d8f87b0c3f7de30b9ac08db04573f0511ecb/DefaultPsaUi.xcframework.zip",
                                               checksum: "a1ac181d7649a8d5a9b260d483f15804192d852250e729f4056b0cd49c2ca07a"),
                                 .binaryTarget(name: "PSA",
-                                              url: "https://github.com/Okaythis/PSAiOS/raw/765a51a19d98bc95af1c389085eb0ead089dc80d/PSA.xcframework.zip",
+                                              url: "https://github.com/Okaythis/PSAiOS/raw/0e02a6ccfc3281c44b419f5e7a135b333782ab19/PSA.xcframework.zip",
                                               checksum: "ce78e3b31df048d52500f7d86193e857728b7b20dffc2d3884053ba895bf0bc8")
                                ]
                      )
